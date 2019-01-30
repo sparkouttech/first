@@ -23,12 +23,15 @@ A string containing the URL to which the request is sent.
 A callback function that is executed when the request completes.
 <br>
 </p>
+<br>
 
+<p><strong>step 1:</strong> Download th project</p>
+<p><strong>step 2:</strong> Run index.html file</p>
+<p><strong>step 3:</strong> It will show what are the content in sample.html in index.html</p>
 <p><strong>eg:</strong>
 <br>
 $(function(){
       $("#includedContent").load("sample.html"); 
     });
     <br>
-    It will load the sample.html file into index.html file to show the content
 </p>
