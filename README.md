@@ -30,5 +30,5 @@ $(function(){
       $("#includedContent").load("sample.html"); 
     });
     <br>
-    It will load the b.html file into index.html file to show the content
+    It will load the sample.html file into index.html file to show the content
 </p>
